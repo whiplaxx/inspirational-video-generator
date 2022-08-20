@@ -1,4 +1,4 @@
-# inspirational-video-generator
+# inspiring-video-generator
 veja tiktok motivacional enquanto eles trabalham
 
 ## Como usar
