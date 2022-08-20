@@ -7,3 +7,4 @@ veja tiktok motivacional enquanto eles trabalham
 ## TODO
 
 - [ ] Croppar 9:16
+- [ ] Musica de fundo
